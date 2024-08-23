@@ -27,52 +27,12 @@ cd posty
 
 2. Install Dependencies
 
-Install the required PHP dependencies using Composer:
-
 
 composer install
 
-
-
-Here is the content for your README.md file for the project "Posty":
-
-markdown
-
-# Posty
-
-Posty is a Laravel project that demonstrates real-time notifications using Laravel Echo, Pusher, and WebSockets. It includes functionalities for creating posts, broadcasting events in real-time, sending emails, and handling queued jobs.
-
-## Prerequisites
-
-Before setting up the project, ensure you have the following installed on your local machine:
-
-- PHP 8.0 or higher
-- Composer
-- Node.js and npm
-- A Pusher account (for broadcasting events)
-- MySQL or another compatible database
-
-## Setup Instructions
-
-Follow these steps to set up the project locally:
-
-### 1. Clone the Repository
-
-Clone the project repository from GitHub to your local machine:
-
-```bash
-git clone https://github.com/Qaisrajpoot12/posty.git
-cd posty
-
-2. Install Dependencies
-
 Install the required PHP dependencies using Composer:
 
-bash
 
-composer install
-
-Install JavaScript dependencies using npm:
 
 
 
@@ -82,50 +42,6 @@ npm run dev
 
 
 
-Here is the content for your README.md file for the project "Posty":
-
-markdown
-
-# Posty
-
-Posty is a Laravel project that demonstrates real-time notifications using Laravel Echo, Pusher, and WebSockets. It includes functionalities for creating posts, broadcasting events in real-time, sending emails, and handling queued jobs.
-
-## Prerequisites
-
-Before setting up the project, ensure you have the following installed on your local machine:
-
-- PHP 8.0 or higher
-- Composer
-- Node.js and npm
-- A Pusher account (for broadcasting events)
-- MySQL or another compatible database
-
-## Setup Instructions
-
-Follow these steps to set up the project locally:
-
-### 1. Clone the Repository
-
-Clone the project repository from GitHub to your local machine:
-
-```bash
-git clone https://github.com/Qaisrajpoot12/posty.git
-cd posty
-
-2. Install Dependencies
-
-Install the required PHP dependencies using Composer:
-
-bash
-
-composer install
-
-Install JavaScript dependencies using npm:
-
-
-
-npm install
-npm run dev
 
 3. Configure Environment Variables
 
