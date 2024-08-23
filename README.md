@@ -118,3 +118,28 @@ php artisan queue:work
 
 
 php artisan serve
+
+home page 
+
+![image](https://github.com/user-attachments/assets/a67b27cb-ad0d-4b53-8f9b-09d744f43f29)
+
+
+dashboard link ..
+
+![image](https://github.com/user-attachments/assets/c309f060-98f9-4afd-95dc-492a28dde9f1)
+
+dashboard
+
+![image](https://github.com/user-attachments/assets/f057da49-8894-45a8-9442-618bfb253933)
+
+![image](https://github.com/user-attachments/assets/4a14e27c-d639-434e-b373-d5e08aa00f30)
+
+
+post detail page for all users
+
+![image](https://github.com/user-attachments/assets/3b54a030-8703-419a-a61b-e5a6b5cee867)
+
+dashboard post edit page ...
+
+![image](https://github.com/user-attachments/assets/3e909201-ec01-44fd-a396-d98246769123)
+
