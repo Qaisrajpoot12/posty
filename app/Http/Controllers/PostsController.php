@@ -40,7 +40,7 @@ class PostsController extends Controller
             $request->validate([
                 'title' => 'required|string',
                 'content' => 'required|string',
-                'image' => 'sometimes|mimes:jpeg,png,jpg|max:2048',
+                'image' => 'required|mimes:jpeg,png,jpg|max:2048',
             ]);
 
             $post = Posts::create([
