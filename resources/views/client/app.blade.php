@@ -84,6 +84,8 @@
                 </div>
             </div>`);
 
+            $('.no-record').hide();
+
 
     }
     </script>

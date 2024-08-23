@@ -20,7 +20,7 @@
                     </div>
                 </div>
             @empty
-                <h2>No Post Found !!</h2>
+                <h2 class="no-record">No Post Found !!</h2>
             @endforelse
 
 
