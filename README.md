@@ -132,7 +132,7 @@ dashboard
 
 ![image](https://github.com/user-attachments/assets/f057da49-8894-45a8-9442-618bfb253933)
 
-![image](https://github.com/user-attachments/assets/4a14e27c-d639-434e-b373-d5e08aa00f30)
+https://github.com/user-attachments/assets/4a14e27c-d639-434e-b373-d5e08aa00f30
 
 
 post detail page for all users
