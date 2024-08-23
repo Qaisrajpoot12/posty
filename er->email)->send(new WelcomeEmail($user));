@@ -1,0 +1,9 @@
+[90m= [39m[34;4mApp\Models\User[39;24m {#6011
+    [34mid[39m: [35m7[39m,
+    [34mname[39m: "[32mGhost Team[39m",
+    [34memail[39m: "[32mak1472512@gmail.com[39m",
+    #[33mpassword[39m: "[32m$2y$12$kaIzmdQ1CrwCzJ9WYs9pD.Jsn6LS98m/hccDGiv7IIbBEQ2I780nW[39m",
+    [34mcreated_at[39m: "[32m2024-08-22 12:30:50[39m",
+    [34mupdated_at[39m: "[32m2024-08-22 12:30:50[39m",
+  }
+
