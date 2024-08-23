@@ -20,6 +20,10 @@ Follow these steps to set up the project locally:
 
 Clone the project repository from GitHub to your local machine:
 
+
+
+
+
 ```bash
 git clone https://github.com/Qaisrajpoot12/posty.git
 cd posty
@@ -119,6 +123,10 @@ php artisan queue:work
 
 php artisan serve
 
+```
+
+
+
 home page 
 
 ![image](https://github.com/user-attachments/assets/a67b27cb-ad0d-4b53-8f9b-09d744f43f29)
@@ -142,4 +150,3 @@ post detail page for all users
 dashboard post edit page ...
 
 ![image](https://github.com/user-attachments/assets/3e909201-ec01-44fd-a396-d98246769123)
-
