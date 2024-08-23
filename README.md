@@ -2,6 +2,8 @@
 
 Posty is a Laravel project that demonstrates real-time notifications using Laravel Echo, Pusher, and WebSockets. It includes functionalities for creating posts, broadcasting events in real-time, sending emails, and handling queued jobs.
 
+# Note ( pusher credential are present  in the env.example file ) 
+
 ## Prerequisites
 
 Before setting up the project, ensure you have the following installed on your local machine:
