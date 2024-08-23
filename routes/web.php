@@ -21,12 +21,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-// Route::get('/test',function(){
-//     $message = 'sent broooo';
-//     event(new NewMessage($message));
-//     return response()->json(['status' => 'Message sent!']);
-// });
-
 
 
 Route::middleware('guest')->group(function () {
