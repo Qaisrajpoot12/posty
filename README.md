@@ -1,10 +1,15 @@
 # Posty
 
-### Email Sending in Background: Implemented background email sending using jobs in Laravel.
-### Real-Time Post Creation: Integrated real-time updates for new posts and notifications       upon post creation.
-### To-Many Relationship: Established a to-many relationship where a user can have multiple posts.
-### Routing and Validation: Added appropriate routing and validation throughout the application.
-### Code Improvement: Added a  file (task-3.php) with code improvements or refactoring.
+##### Email Sending in Background:
+Implemented background email sending using jobs in Laravel.
+##### Real-Time Post Creation:
+Integrated real-time updates for new posts and notifications       upon post creation.
+##### To-Many Relationship:
+Established a to-many relationship where a user can have multiple posts.
+##### Routing and Validation:
+Added appropriate routing and validation throughout the application.
+##### Code Improvement:
+Added a  file (task-3.php) with code improvements or refactoring.
 
 
 
