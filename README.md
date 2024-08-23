@@ -1,8 +1,19 @@
 # Posty
 
+# Email Sending in Background: Implemented background email sending using jobs in Laravel.
+# Real-Time Post Creation: Integrated real-time updates for new posts and notifications       upon post creation.
+# To-Many Relationship: Established a to-many relationship where a user can have multiple posts.
+# Routing and Validation: Added appropriate routing and validation throughout the application.
+# Code Improvement: Added a  file (task-3.php) with code improvements or refactoring.
+
+
+
 Posty is a Laravel project that demonstrates real-time notifications using Laravel Echo, Pusher, and WebSockets. It includes functionalities for creating posts, broadcasting events in real-time, sending emails, and handling queued jobs.
 
 # Note ( pusher credential are present  in the env.example file ) 
+
+
+
 
 ## Prerequisites
 
