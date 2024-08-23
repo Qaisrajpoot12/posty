@@ -3,7 +3,7 @@
 
 @section('main_content')
     <div class="container">
-        <div class="row my-3 blog_row">
+        <div class="row my-3 ">
 
 
                 <div class="col-md-12  my-2">
