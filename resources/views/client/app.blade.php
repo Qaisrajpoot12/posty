@@ -79,8 +79,8 @@
                     <div class="blog-content">
                         <h2>${data.title}</h2>
                         <p>${data.content}</p>
-                        <a href="#">Read More</a>
-                    </div>
+                <a href="/blog-detail/${data.id}">Read More</a>
+                                    </div>
                 </div>
             </div>`);
 
